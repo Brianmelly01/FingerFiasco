@@ -42,5 +42,5 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/abhijeetBhale/finger-fiasco.git
-   cd finger-fiasco
+   git clone https://github.com/Brianmelly01/FingerFiasco
+   cd FingerFiasco
